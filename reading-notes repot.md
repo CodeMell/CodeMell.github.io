@@ -1,4 +1,5 @@
-# Summary What i leaned
+# Markdown Summary
+##  What I leaned
 - using github pages is weird 〒▽〒
 - github page is "alternative" to html
 
