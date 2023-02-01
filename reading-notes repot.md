@@ -1,17 +1,5 @@
-# Markdown Summary
-##  What I leaned
-- using github pages is weird 〒▽〒
-- github page is "alternative" to html
-
-## Things I want to know more about
-- githud page
-- C++
-- java srcip
-
-# The Coder's Computer Summary
-## What I leaned
-- what a text editor is and what its for
-- basics understanding linux
-
-## Things I want to know more about
-- linux server management
+# Class Read Summary
+1. [Markdown](https://github.com/CodeMell/CodeMell.github.io/blob/main/Markdown.md)
+2. [The Coder's Computer](https://github.com/CodeMell/CodeMell.github.io/blob/main/The%20Coder's%20Computer.md)
+3. [Revisions and the Cloud]()
+4. [Structure web pages with HTML]()
